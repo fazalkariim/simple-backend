@@ -1,4 +1,4 @@
-# chai our Professional Backend series
+# Simple Backend Series
 
-This is our Model 
+This is my Model 
 - [Model Link] (https://app.eraser.io/workspace/YtPqZ1VogxGy1jzIDkzj)
